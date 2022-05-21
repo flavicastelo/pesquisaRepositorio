@@ -84,7 +84,7 @@ export const Button = styled.button`
 
 export const LinkHome = styled(Link)`
     display: flex;
-    width: 500px;
+    max-width: 500px;
     margin: .5rem auto;    
     padding: 5px 10px;
     background-color: #171515;
@@ -111,6 +111,3 @@ export const Text = styled.p`
     margin-top: 15%;
 `
 
-export const Img = styled.img`
-
-`
