@@ -29,6 +29,7 @@ export const ContainerForm = styled.div`
 
 export const Title = styled.h1` 
     margin: 0 auto;
+    margin-top:25%;
     background-color: #171515;  
     color: #fff;  
     padding: 5px 10px;
